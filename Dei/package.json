@@ -1,0 +1,57 @@
+{
+  "name": "Dei",
+  "version": "0.0.1",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts"
+    ]
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^1.0.0",
+    "appcenter": "2.0.0",
+    "appcenter-analytics": "2.0.0",
+    "appcenter-crashes": "2.0.0",
+    "axios": "^0.18.0",
+    "card-validator": "^6.1.0",
+    "moment": "^2.24.0",
+    "react": "16.8.3",
+    "react-native": "0.59.3",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-image-pan-zoom": "^2.1.11",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-image-placeholder": "^1.0.14",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-image-resizer": "^1.0.1",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-onboarding-swiper": "^1.0.1",
+    "react-native-onesignal": "^3.2.14",
+    "react-native-rename": "^2.4.1",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-stripe-api": "^0.1.0",
+    "react-native-super-grid": "^3.0.3",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-swiper": "^1.5.14",
+    "react-navigation": "^3.6.1",
+    "rn-fetch-blob": "^0.10.15",
+    "rn-viewpager": "^1.2.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/runtime": "^7.4.3",
+    "babel-jest": "^24.8.0",
+    "babel-preset-react-native": "^4.0.1",
+    "jest": "^24.8.0",
+    "jest-react-native": "^18.0.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "^16.8.3"
+  },
+  "postinstall": "node ./fixAndroid/android-release-fix.js"
+}

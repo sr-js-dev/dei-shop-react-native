@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dei</string>
+    <string name="facebook_app_id">319233765359729</string>
+    <string name="fb_login_protocol_scheme">fb319233765359729</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>

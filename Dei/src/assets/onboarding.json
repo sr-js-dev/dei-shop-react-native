@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "title": "Mollit esse minima ",
+    "description": "Cupiditate quia repr",
+    "image": "https://dei-store.s3.ap-southeast-1.amazonaws.com/onboarding/2-railroad-tracks-163518_640.jpg",
+    "order": 1,
+    "created_date": null,
+    "last_updated": null
+  },
+  {
+    "id": 3,
+    "title": "Tenetur quod delenit",
+    "description": "Numquam officiis qui",
+    "image": "https://dei-store.s3.ap-southeast-1.amazonaws.com/onboarding/3-sunrise-1756274_640.jpg",
+    "order": 2,
+    "created_date": null,
+    "last_updated": null
+  },
+  {
+    "id": 4,
+    "title": "Aspernatur non aut c",
+    "description": "Est necessitatibus ",
+    "image": "",
+    "order": 3,
+    "created_date": null,
+    "last_updated": null
+  },
+  {
+    "id": 5,
+    "title": "Reprehenderit et qu",
+    "description": "Eligendi assumenda a",
+    "image": "https://dei-store.s3.ap-southeast-1.amazonaws.com/onboarding/5-sunrise-1756274_640.jpg",
+    "order": 4,
+    "created_date": null,
+    "last_updated": null
+  }
+]

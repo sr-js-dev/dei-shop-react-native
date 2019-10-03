@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true
+}

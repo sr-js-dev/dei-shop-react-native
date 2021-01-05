@@ -16,7 +16,7 @@
     "appcenter": "2.0.0",
     "appcenter-analytics": "2.0.0",
     "appcenter-crashes": "2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "card-validator": "^6.1.0",
     "moment": "^2.24.0",
     "react": "16.8.3",

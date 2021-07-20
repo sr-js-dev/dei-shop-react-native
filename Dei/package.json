@@ -20,7 +20,7 @@
     "card-validator": "^6.1.0",
     "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-fbsdk": "^0.8.0",
     "react-native-gesture-handler": "^1.1.0",
